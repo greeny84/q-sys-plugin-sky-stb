@@ -4,7 +4,7 @@
 PluginInfo = {
 	Name = "SkySTB~Feedback (0.0.0.0-master)", -- The tilde here indicates folder structure in the Shematic Elements pane
 	Version = "0.0.0.0-master",
-	Id = "qsysc-skystb.feedback.0.0.0.0-master", -- show this is just a unique id. Show some commented out 'fun' unique ids
+	Id = "qsysc.skystb.feedback.0.0.0.0-master", -- show this is just a unique id. Show some commented out 'fun' unique ids
 	Description = "Plugin for display RS232 feedback from Sky TV",
 	ShowDebug = true
 }

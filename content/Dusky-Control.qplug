@@ -4,7 +4,7 @@
 PluginInfo = {
 	Name = "SkySTB~DuskyControl (0.0.0.0-master)", -- The tilde here indicates folder structure in the Shematic Elements pane
 	Version = "0.0.0.0-master",
-	Id = "qsysc-skystb.duskycontrol.0.0.0.0-master", -- show this is just a unique id. Show some commented out 'fun' unique ids
+	Id = "qsysc.skystb.duskycontrol.0.0.0.0-master", -- show this is just a unique id. Show some commented out 'fun' unique ids
 	Description = "Plugin for control of a Dusky Control for Sky TV",
 	ShowDebug = true
 }
